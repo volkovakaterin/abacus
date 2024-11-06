@@ -1,0 +1,13 @@
+.Column {
+  width: 76px;
+
+  &.bordo {
+    border-top: solid 13px var(--Bordo);
+    border-bottom: solid 13px var(--Bordo);
+  }
+
+  &.grey {
+    border-top: solid 13px var(--Grey);
+    border-bottom: solid 13px var(--Grey);
+  }
+}

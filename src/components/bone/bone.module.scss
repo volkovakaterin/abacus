@@ -1,0 +1,15 @@
+.Bone {
+  width: 66px;
+  height: 31px;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+
+  &.brown {
+    background-image: url(../../assets/brown.png);
+  }
+
+  &.green {
+    background-image: url(../../assets/green.png);
+  }
+}
